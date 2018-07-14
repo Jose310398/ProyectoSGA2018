@@ -31,3 +31,12 @@ C:\Users\Developer\source\repos\SGA2018\SGA2018\obj\Debug\SGA2018.csprojResolveA
 C:\Users\jfase\Desktop\WPFSGA2018-master\SGA2018\bin\Debug\SGA2018.exe.config
 C:\Users\jfase\Desktop\WPFSGA2018-master\SGA2018\obj\Debug\SGA2018.exe
 C:\Users\jfase\Desktop\WPFSGA2018-master\SGA2018\obj\Debug\SGA2018.pdb
+C:\Users\jfase\Desktop\Proyecto\SGA2018\bin\Debug\SGA2018.exe.config
+C:\Users\jfase\Desktop\Proyecto\SGA2018\obj\Debug\SGA2018.exe
+C:\Users\jfase\Desktop\Proyecto\SGA2018\obj\Debug\SGA2018.pdb
+C:\Users\jfase\Desktop\Proyecto\SGA2018\obj\Debug\SGA2018.csprojResolveAssemblyReference.cache
+C:\Users\jfase\Desktop\Proyecto\SGA2018\obj\Debug\Resources\Icons.baml
+C:\Users\jfase\Desktop\Proyecto\SGA2018\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\jfase\Desktop\Proyecto\SGA2018\obj\Debug\App.g.cs
+C:\Users\jfase\Desktop\Proyecto\SGA2018\obj\Debug\SGA2018_MarkupCompile.cache
+C:\Users\jfase\Desktop\Proyecto\SGA2018\obj\Debug\SGA2018_MarkupCompile.lref

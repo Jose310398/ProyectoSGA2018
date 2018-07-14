@@ -15,6 +15,8 @@ namespace SGA2018.Model
         public DbSet<ClaseAlumno> ClasesAlumnos { get; set; }
         public DbSet<GrupoAcademico> GrupoAcademicos { get; set; }
         public DbSet<Clase> Clases { get; set; }
+        public DbSet<Puesto> Puestos { get; set; }
+        public DbSet<Profesor> Profesores { get; set; }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
@@ -44,6 +46,11 @@ namespace SGA2018.Model
             modelBuilder.Entity<ClaseAlumno>()
                 .ToTable("ClasesAlumnos")
                 .HasKey(x => new {x.AlumnoId,x.ClaseId });
+            modelBuilder.Entity<Puesto>()
+                .ToTable("Puestos");
+            modelBuilder.Entity<Profesor>()
+                .ToTable("Profesores");
         }
+
     }
 }
